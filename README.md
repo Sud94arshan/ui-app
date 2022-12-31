@@ -8,6 +8,7 @@
 - git
 - Maven
 - Docker
+- Kubernetes
 
 ## Prerequisites
 
