@@ -1,4 +1,18 @@
 # ui-app
 
+### test
 
-this is first session for github
+## Devops tools
+
+- UNIX/SHELL
+- git
+- Maven
+- Docker
+
+## Prerequisites
+
+execute below commands to install git
+
+```
+choco install git
+```
